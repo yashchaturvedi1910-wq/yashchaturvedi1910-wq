@@ -19,17 +19,15 @@
 
 ## 🧠 About Me
 
-```javascript
-const yash = {
-  degree: "B.Tech Computer Science & Engineering (2022–2026)",
-  university: "JECRC University, Jaipur, Rajasthan",
-  cgpa: 7.5,
-  currentRole: "Web Developer Intern @ Shijika India Pvt. Ltd",
-  interests: ["Full-Stack Development", "AI/ML", "NLP", "Real-Time Systems"],
-  hackathons: ["Smart India Hackathon 2025 🏆"],
-  funFact: "I turn chai ☕ and deadlines 🔥 into production-ready apps."
-};
-```
+I am a final-year Computer Science & Engineering student at **JECRC University, Jaipur**, with a strong foundation in full-stack development, machine learning, and natural language processing. I am passionate about building scalable, real-world software solutions that create measurable impact.
+
+Currently working as a **Web Developer Intern at Shijika India Pvt. Ltd**, where I have contributed to live production systems — fixing critical bugs, building features from scratch, and improving UI/UX across a large e-commerce platform.
+
+As a participant in **Smart India Hackathon 2025**, I co-developed *Safar Sathi* — a real-time public transport tracking system powered by GPS, AI/ML, and WebSocket technology, designed to solve urban commuting challenges across Indian cities.
+
+I am driven by a commitment to continuous learning, clean code, and delivering solutions that are both technically sound and practically meaningful. I thrive at the intersection of **software engineering and intelligent systems**, and I am actively seeking opportunities where I can contribute, grow, and make a difference.
+
+> *"Build things that matter. Learn things that last."*
 
 ---
 
@@ -188,5 +186,9 @@ const yash = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+
+ 
+
+
 
 
